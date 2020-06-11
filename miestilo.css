@@ -1,0 +1,25 @@
+body{
+font-family: 'Comic Neue', cursive;
+margin:0px;
+background-image:url('imagenes/herringbone.png');
+}
+p{
+
+  color:#555555;
+}
+img{
+  height:200px
+}
+.extra-grande{
+  font-size:40px
+}
+ul.navbar{
+  background-color: silver;
+  height: 200px;
+  list-style-type:none
+}
+ul.navbar li{
+float:left; padding: 50px;
+}
+</style>
+}
